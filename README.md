@@ -1,5 +1,5 @@
 
-# <Prework Study guide Webpage>
+# Prework Study guide Webpage
 
 ## Description
 
